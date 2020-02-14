@@ -209,6 +209,9 @@ def generate():
         a = {}
         s =""
         for ii in range(len(reshaped_text.split(' '))):
+            if(reshaped_text.split(' ')[ii]=="الله"):
+                continue 
+
             s += reshaped_text.split(' ')[ii]+" "
             if ii %5 ==0 :
                 a[ii] = s
