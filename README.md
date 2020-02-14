@@ -2,7 +2,7 @@
 A PyTorch RNN model to generate Arabic poems
 
 here you can find the model generation and training with the data file used to train the model 
-https://github.com/AhmedAbdel-Aal/Arabic-poem-Generator/blob/master/Notebooks/Arabic%20Poem%20Generation.html
+https://github.com/AhmedAbdel-Aal/Arabic-poem-Generator/blob/master/Notebooks/Arabic%20Poem%20Generation.ipynb
 
 # Go and see the live version at 
 https://arabic-poem-generator.herokuapp.com/
