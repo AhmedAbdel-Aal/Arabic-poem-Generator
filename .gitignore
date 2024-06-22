@@ -26,7 +26,6 @@ env/
 # Data files
 *.csv
 *.json
-*.txt
 
 # Logs
 *.log

@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+numpy=1.26.4=py39h827a554_0
+pytorch=2.2.1=py3.9_0
+torchaudio=2.2.1=py39_cpu
+torchvision=0.17.1=py39_cpu
