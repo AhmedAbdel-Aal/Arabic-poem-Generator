@@ -19,13 +19,11 @@ env/
 .ipynb_checkpoints
 
 # PyTorch model checkpoints
-*.pth
 *.pt
 *.bin
 
 # Data files
 *.csv
-*.json
 
 # Logs
 *.log
